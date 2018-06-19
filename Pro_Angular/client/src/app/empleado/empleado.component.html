@@ -1,0 +1,73 @@
+<p>
+  {{titulo}}
+</p>
+
+<br/>
+<input type="text" [(ngModel)]="color_seleccionado"/>
+
+<!--[style.border]="color_seleccionado == 'red' ? '5px solid black' : '1px solid green'"
+[class.fondoAzul]="color_seleccionado == 'blue'"
+[ngClass] = "{
+	fondoAzul: color_seleccionado == 'blue',
+	fondoVerde: color_seleccionado == 'green'	
+}"-->
+<pre 
+	[ngClass] = "['fondoAzul', 'letraGrande']"
+>
+	{{ color_seleccionado }}
+</pre>
+
+<div [ngStyle]="{
+	'background': color_seleccionado,
+	'width': '200px',
+	'height': '200px',
+	'float': 'right'
+}"></div>
+
+<br>
+<br>
+
+<div style="clear: both;"></div>
+
+
+
+<h3>Colores</h3>
+<ul [ngSwitch]="color">
+	<li *ngSwitchCase="'blue'" [ngStyle]="{
+		'background':color,
+		'color': 'white'
+	}">AZUL</li>
+	<li *ngSwitchCase="'red'" [ngStyle]="{
+		'background':color,
+		'color': 'white'
+	}">ROJO</li>
+	<li *ngSwitchCase="'green'" [ngStyle]="{
+		'background':color,
+		'color': 'white'
+	}">VERDE</li>
+</ul>
+
+<div>
+	<ul>
+		<li *ngFor="let empleado of trabajadores; let i = index">
+			<ul>
+				<li>{{i}}</li>
+				<li>{{empleado.nombre}}</li>
+				<li>{{empleado.edad}}</li>
+				<li>{{empleado.cargo}}</li>
+				<li>{{empleado.contratado}}</li>
+			</ul>
+		</li>
+	</ul>
+</div>
+
+<button (click)="cambiarExterno(true)">MOSTRAR</button>
+<button (click)="cambiarExterno(false)">OCULTAR</button>
+<div *ngIf="trabajador_externo == true">
+	<ul>
+		<li>{{trabajadores[1].nombre}}</li>
+		<li>{{empleado.edad}}</li>
+		<li>{{empleado.cargo}}</li>
+		<li>{{empleado.contratado}}</li>
+	</ul>
+</div>

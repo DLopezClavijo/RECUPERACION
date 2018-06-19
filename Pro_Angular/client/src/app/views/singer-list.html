@@ -1,0 +1,31 @@
+<div class="head-page" *ngIf="identity">
+	<h1>{{ titulo }}</h1>
+
+	<a *ngIf="identity && identity.role == 'ROLE_ADMIN'" class="btn btn-default" [routerLink]="['/crear-singer']">
+		Añadir Cantante
+	</a>
+	<ul class="pagination pull-right">
+		<li><a [routerLink]="['/singers', prev_page]">&laquo;</a></li>
+		<li><a [routerLink]="['/singers', next_page]">&raquo;</a></li>
+	</ul>
+</div>
+<div class="clearfix"></div>
+<ul class="singer-list" *ngIf="identity">
+		<li *ngFor="let singer of singers" class="col-lg-2 singer-item">
+			<!-- <div class="singer-image">
+				<img src="{{ url + 'get-image-singer/' + singer.image }}" style="width: 100px">
+			</div> -->
+			<div class="singer-name">
+				<a [routerLink]="['/singer', singer._id]">{{singer.name}}</a>
+			</div>
+			<div class="buttons" *ngIf="identity.role == 'ROLE_ADMIN'">
+				<a [routerLink]="['/editar-singer', singer._id]" class="btn btn-sm btn-warning">Editar</a>
+				<a (click)="onDeleteConfirm(singer._id)" class="btn btn-sm btn-danger">Borrar</a>
+			</div>
+			<div class="seguro" *ngIf="confirmado == singer._id">
+				<a (click)="onDeleteSinger(singer._id)" class="btn btn-sm btn-danger">Borrar</a>
+				<a (click)="onCancelSinger()" class="btn btn-sm btn-primary">Cancelar</a>
+				
+			</div>
+		</li>
+</ul>

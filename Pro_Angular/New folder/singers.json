@@ -1,0 +1,14 @@
+{ 
+    "_id" : ObjectId("5b1d4b112d7bba1228aa5c38"), 
+    "name" : "HOLA", 
+    "description" : "TRES", 
+    "image" : "null", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b1d4b272d7bba1228aa5c39"), 
+    "name" : "DANIEL", 
+    "description" : "daniel", 
+    "image" : "null", 
+    "__v" : NumberInt(0)
+}

@@ -1,0 +1,568 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"_",
+				"_singerService\tproperty"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"Te",
+				"SingerDetailComponent\talias"
+			],
+			[
+				"te",
+				"singer-detail.component\tscript"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"ge",
+				"getSingers\tmethod"
+			],
+			[
+				"pa",
+				"page\tlet"
+			],
+			[
+				"_ro",
+				"_router\tproperty"
+			],
+			[
+				"Up",
+				"UploadService\talias"
+			],
+			[
+				"Tea",
+				"SingerEditComponent\talias"
+			],
+			[
+				"t",
+				"singer\tproperty"
+			],
+			[
+				"Requ",
+				"RequestOptions\talias"
+			],
+			[
+				"se",
+				"services\tdirectory"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"Glo",
+				"GLOBAL\talias"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fi",
+				"filesToUpload\tproperty"
+			],
+			[
+				"s",
+				"send\tmethod"
+			],
+			[
+				"to",
+				"token\tlocal var"
+			],
+			[
+				"re",
+				"readyState\tproperty"
+			],
+			[
+				"for",
+				"formData\tlocal var"
+			],
+			[
+				"XML",
+				"XMLHttpRequest\tinterface"
+			],
+			[
+				"fu",
+				"function\tkeyword"
+			],
+			[
+				"get",
+				"getElementById\tmethod"
+			],
+			[
+				"set",
+				"setItem\tmethod"
+			],
+			[
+				"us",
+				"userId"
+			],
+			[
+				"g",
+				"getIdentity\tmethod"
+			],
+			[
+				"Ro",
+				"RouterModule\talias"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"pr",
+				"private\tkeyword"
+			],
+			[
+				"pro",
+				"providers\tproperty"
+			],
+			[
+				"Com",
+				"Component\talias"
+			],
+			[
+				"impor",
+				"import\timports a module …"
+			],
+			[
+				"u",
+				"user\tproperty"
+			],
+			[
+				"n",
+				"name\tAttr"
+			],
+			[
+				"loc",
+				"localStorage\tvar"
+			],
+			[
+				"er",
+				"errorMessage\tlocal var"
+			],
+			[
+				"User",
+				"UserService\talias"
+			],
+			[
+				"Use",
+				"UserService\talias"
+			],
+			[
+				"impo",
+				"import\tkeyword"
+			],
+			[
+				"cla",
+				"class\tkeyword"
+			],
+			[
+				"exp",
+				"export\tkeyword"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"colo",
+				"color_seleccionado\tproperty"
+			],
+			[
+				"tr",
+				"trabajador_externo\tproperty"
+			],
+			[
+				"con",
+				"console\tvar"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"fil",
+				"file_name"
+			],
+			[
+				"Acc",
+				"Access-Control-Allow-Headers"
+			],
+			[
+				"h",
+				"header"
+			],
+			[
+				"ex",
+				"exec"
+			],
+			[
+				"save",
+				"saveAlbum"
+			],
+			[
+				"pla",
+				"albumId"
+			],
+			[
+				"upload",
+				"uploadImage"
+			],
+			[
+				"album",
+				"albumRemoved"
+			],
+			[
+				"md_",
+				"md_auth"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"en",
+				"ensureAuth"
+			],
+			[
+				"md",
+				"md_auth"
+			],
+			[
+				"im",
+				"imageFile"
+			],
+			[
+				"file",
+				"file_ext"
+			],
+			[
+				"exte",
+				"extension_split"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"a",
+				"authorization"
+			],
+			[
+				"Us",
+				"UserSchema"
+			],
+			[
+				"mo",
+				"mongoose"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"bod",
+				"bodyParser"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "install Package",
+		"selected_items":
+		[
+			[
+				"install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/curso-angular",
+		"/C/wamp64/www/curso-angular/client",
+		"/C/wamp64/www/curso-angular/client/dist",
+		"/C/wamp64/www/curso-angular/client/src",
+		"/C/wamp64/www/curso-angular/client/src/app",
+		"/C/wamp64/www/curso-angular/client/src/app/components",
+		"/C/wamp64/www/curso-angular/client/src/app/models",
+		"/C/wamp64/www/curso-angular/client/src/app/services",
+		"/C/wamp64/www/curso-angular/client/src/app/views",
+		"/C/wamp64/www/curso-angular/client/src/assets",
+		"/C/wamp64/www/curso-angular/client/src/assets/css"
+	],
+	"file_history":
+	[
+		"/C/wamp64/www/curso-angular/client/src/assets/css/styles.css",
+		"/C/wamp64/www/curso-angular/client/src/app/views/singer-list.html",
+		"/C/wamp64/www/curso-angular/client/src/app/components/singer-list.component.ts",
+		"/C/wamp64/www/curso-angular/api/controllers/singer.js",
+		"/C/wamp64/www/curso-angular/client/src/app/app.routing.ts",
+		"/C/wamp64/www/curso-angular/client/src/app/app.module.ts",
+		"/C/wamp64/www/curso-angular/client/src/app/views/singer-detail.html",
+		"/C/wamp64/www/curso-angular/client/src/app/components/singer-detail.component.ts",
+		"/C/wamp64/www/curso-angular/client/src/app/views/singer-add.html",
+		"/C/wamp64/www/curso-angular/client/src/app/components/singer-edit.component.ts",
+		"/C/wamp64/www/curso-angular/client/src/app/services/upload.service.ts",
+		"/C/wamp64/www/curso-angular/client/src/app/components/singer-add.component.ts",
+		"/C/wamp64/www/curso-angular/client/src/app/app.component.ts",
+		"/C/wamp64/www/curso-angular/client/src/app/services/singer.service.ts",
+		"/C/wamp64/www/curso-angular/client/src/app/views/singer-edit.html",
+		"/C/wamp64/www/curso-angular/client/src/app/components/home.component.ts",
+		"/C/wamp64/www/curso-angular/client/src/app/views/home.html",
+		"/C/wamp64/www/curso-angular/client/src/app/app.component.html",
+		"/C/wamp64/www/curso-angular/client/src/app/views/user-edit.html",
+		"/C/wamp64/www/curso-angular/api/controllers/user.js",
+		"/C/wamp64/www/curso-angular/client/src/app/components/user-edit.component.ts",
+		"/C/wamp64/www/curso-angular/client/src/app/services/user.service.ts",
+		"/C/wamp64/www/curso-angular/client/src/index.html",
+		"/C/wamp64/www/curso-angular/client/src/app/models/user.ts",
+		"/C/wamp64/www/curso-angular/client/src/app/models/singer.ts",
+		"/C/wamp64/www/curso-angular/client/src/app/models/album.ts",
+		"/C/wamp64/www/curso-angular/client/src/app/services/global.ts",
+		"/C/wamp64/www/curso-angular/client/src/app/empleado/empleado.component.html",
+		"/C/wamp64/www/curso-angular/client/src/app/empleado/empleado.component.ts",
+		"/C/wamp64/www/curso-angular/client/src/app/empleado/empleado.ts",
+		"/C/wamp64/www/curso-angular/api/index.js",
+		"/C/wamp64/www/curso-angular/app.js",
+		"/C/wamp64/www/curso-angular/controllers/user.js",
+		"/C/wamp64/www/curso-angular/controllers/album.js",
+		"/C/wamp64/www/curso-angular/routes/album.js",
+		"/C/wamp64/www/curso-angular/models/singer.js",
+		"/C/wamp64/www/curso-angular/controllers/singer.js",
+		"/C/wamp64/www/curso-angular/routes/singer.js",
+		"/C/wamp64/www/curso-angular/models/album.js",
+		"/C/Users/USUARIO/AppData/Local/Temp/VirtualBox Dropped Files/2017-12-01T12_25_33.431571600Z/Nuevo_Esquema.png",
+		"/C/wamp64/www/curso-angular/index.js",
+		"/C/wamp64/www/curso-angular/models/user.js",
+		"/C/wamp64/www/curso-angular/services/jwt.js",
+		"/C/wamp64/www/curso-angular/middlewares/authenticated.js",
+		"/C/wamp64/www/curso-angular/routes/user.js",
+		"/C/wamp64/www/curso-angular/package.json"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 156.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proyecto-curso-angular.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 355.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

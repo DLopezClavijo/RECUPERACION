@@ -1,0 +1,96 @@
+{ 
+    "_id" : ObjectId("5b1c1d6e9c187e2984e948e2")
+}
+{ 
+    "_id" : ObjectId("5b1c1de29c187e2984e948e3"), 
+    "name" : "admin1", 
+    "surname" : "lopez", 
+    "email" : "admin@2admin.com", 
+    "role" : "ROLE_ADMIN", 
+    "image" : "null", 
+    "password" : "$2a$10$UuLpg6v7grMqEb7dj7n0LuptGfPxIgQ9CtyFOA.9WdIX8/z6la6Sy", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b1c1ea59c187e2984e948e4"), 
+    "name" : "administrator", 
+    "surname" : "admin admin", 
+    "email" : "adming@admin.com", 
+    "role" : "ROLE_USER", 
+    "image" : "null", 
+    "password" : "$2a$10$rjZnxTI2uXFm7peeO8dP2.brKRYhpxQxISnSTWtJ.M43iLossLhNi", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b1c558c4aff9430a0fee01e"), 
+    "name" : "DANIEL A", 
+    "surname" : "CLAVIJO", 
+    "email" : "admin1@admin.com", 
+    "role" : "ROLE_USER", 
+    "image" : "null", 
+    "password" : "$2a$10$3BexACLiSqIfij.rBRMPMe0SENa8nOABX.1hlMiuqZKJY85blBrLC", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b1d36a18cfedb2d3cf9e5b9"), 
+    "name" : "admin", 
+    "surname" : "admin", 
+    "email" : "adming@admin.com", 
+    "role" : "ROLE_USER", 
+    "image" : "null", 
+    "password" : "$2a$10$.wGCJhjWl8QE4g3d2/eHmOS16kMydgEaP4LShSns30HTYC17cIWVW", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b1d373e8cfedb2d3cf9e5ba")
+}
+{ 
+    "_id" : ObjectId("5b1d37cf8cfedb2d3cf9e5bb"), 
+    "name" : "as", 
+    "surname" : "as", 
+    "email" : " D@D.COM", 
+    "role" : "ROLE_USER", 
+    "image" : "null", 
+    "password" : "$2a$10$P1G9a5R1S3TKN8FbPo.GqOo/D3ICeJ7S1.JvN9d/WxRAb7KvRG17C", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b1d38128cfedb2d3cf9e5bc"), 
+    "name" : "DANIEL A", 
+    "surname" : "CLAVIJO", 
+    "email" : "yo@gmail.com", 
+    "role" : "ROLE_USER", 
+    "image" : "null", 
+    "password" : "$2a$10$UmW0e3wGfoIqAU9pU6odZuiBwIL4R503dC4mP.sCVHh2aafa/lnaS", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b1d3b688cfedb2d3cf9e5bd"), 
+    "name" : "1", 
+    "surname" : "1", 
+    "email" : "1@1.com", 
+    "role" : "ROLE_USER", 
+    "image" : "null", 
+    "password" : "$2a$10$m9qDcwsbNeH7ZIeS3ZlFDe.iQL9tbOsuNeBJgtnc2Q8BKwvDyyXzC", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b1d3d598cfedb2d3cf9e5be"), 
+    "name" : "1", 
+    "surname" : "1", 
+    "email" : "2@2.com", 
+    "role" : "ROLE_USER", 
+    "image" : "null", 
+    "password" : "$2a$10$jqFIsN2fBiSAiEbcnXWYOenX8bh8rdSHQiY5i68ZtSe/I0brPndg.", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b1d410db6ffb11fc4a9197a"), 
+    "name" : "admin", 
+    "surname" : "admin", 
+    "email" : "admin@a.com", 
+    "role" : "ROLE_ADMIN", 
+    "image" : "null", 
+    "password" : "$2a$10$bfNzDKzcoxJ0P3ULaT8O8OvhZ79eul4/aiiv3a7MrG4Qcgpk3QYwS", 
+    "__v" : NumberInt(0)
+}
